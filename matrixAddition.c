@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 // addition of two matrix of same dimension
 // Tanmoy Munshi 2019/09/19
 int main()
